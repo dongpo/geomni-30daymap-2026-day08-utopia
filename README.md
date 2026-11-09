@@ -2,7 +2,13 @@
 
 北臺灣至北方三島的船隻透視地圖。此儲存庫保存本機 v13 版本，包含執行所需的預處理資料。
 
-## 執行
+## 線上地圖
+
+[開啟海面之下](https://dongpo.github.io/geomni-30daymap-2026-day08-utopia/)
+
+GitHub Pages 由 `main` 分支根目錄發布。
+
+## 本機執行
 
 ```sh
 python3 -m http.server 8781 --bind 127.0.0.1
@@ -17,7 +23,7 @@ python3 -m http.server 8781 --bind 127.0.0.1
 
 ## 資料與存取範圍
 
-依使用者2026-11-09明確要求，此儲存庫設為 **public**；未啟用 GitHub Pages，未自動發布 Facebook。
+依使用者2026-11-09明確要求，此儲存庫設為 **public**；並依使用者要求啟用 GitHub Pages，未自動發布 Facebook。
 
 GEBCO 2024 海底地形、農業部人工礁、TBIA 多來源魚類資料、使用者提供的四島 Shapefile 與參考點，均保留各自來源與限制。沒有對全部資料授予統一授權。四島圖資來源為內政部國土測繪中心[村里界圖(TWD97經緯度)](https://data.gov.tw/dataset/7438)，採[政府資料開放授權條款第1版](https://data.gov.tw/licenses)。使用者提供四島子集，本專案進行座標轉換、島名對照、陸地遮罩與等深線裁切；不將行政面幾何宣稱為即時潮位岸線。來源頁詮釋資料更新時間不是原始檔測製日期。
 
