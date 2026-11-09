@@ -1,0 +1,10 @@
+{
+  "title": "村里界圖(TWD97經緯度)",
+  "provider": "內政部國土測繪中心",
+  "url": "https://data.gov.tw/dataset/7438",
+  "license": "政府資料開放授權條款-第1版",
+  "license_url": "https://data.gov.tw/licenses",
+  "verified": "2026-11-09",
+  "metadata_updated": "2026-08-25 15:14",
+  "file_version_note": "頁面詮釋資料時間不代表使用者上傳檔的測製日期；幾何依north_island.zip雜湊追溯"
+}

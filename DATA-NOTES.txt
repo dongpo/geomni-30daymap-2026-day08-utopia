@@ -24,3 +24,5 @@ Utopia在圖面中的角色
 V12 reproducibility: after scripts/build.py and scripts/contours-20m.py, run scripts/integrate-islands.py to regenerate the land layer and clip contours. All source geometry is preserved; names assigned from position and codes. Source/CRS checks: evidence/islands-qa.json.
 
 2026-11-09來源更新：使用者確認north_island.zip四島圖資自https://data.gov.tw/下載，屬開放資料，並明確授權將此GitHub儲存庫設為公開。具體資料集URL、發布機關、版本及授權連結待補；前述僅本機的註記為先前審稿歷史。
+
+2026-11-09正式來源補齊：內政部國土測繪中心「村里界圖(TWD97經緯度)」，https://data.gov.tw/dataset/7438；政府資料開放授權條款第1版：https://data.gov.tw/licenses。四島子集依使用者提供檔；此項取代先前四島授權未知／資料集頁待補註記。
