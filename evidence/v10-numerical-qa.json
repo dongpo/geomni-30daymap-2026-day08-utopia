@@ -1,0 +1,80 @@
+{
+  "huanggang": [
+    {
+      "radius_m": 500,
+      "survey_rows": 0,
+      "taxon_ids": 0,
+      "uncertain_rows": 0,
+      "independent_wgs84_geodesic_count": 0,
+      "count_difference": 0
+    },
+    {
+      "radius_m": 1000,
+      "survey_rows": 0,
+      "taxon_ids": 0,
+      "uncertain_rows": 0,
+      "independent_wgs84_geodesic_count": 0,
+      "count_difference": 0
+    },
+    {
+      "radius_m": 2000,
+      "survey_rows": 0,
+      "taxon_ids": 0,
+      "uncertain_rows": 0,
+      "independent_wgs84_geodesic_count": 0,
+      "count_difference": 0
+    }
+  ],
+  "coral": [
+    {
+      "radius_m": 500,
+      "survey_rows": 0,
+      "taxon_ids": 0,
+      "uncertain_rows": 0,
+      "independent_wgs84_geodesic_count": 0,
+      "count_difference": 0
+    },
+    {
+      "radius_m": 1000,
+      "survey_rows": 0,
+      "taxon_ids": 0,
+      "uncertain_rows": 0,
+      "independent_wgs84_geodesic_count": 0,
+      "count_difference": 0
+    },
+    {
+      "radius_m": 2000,
+      "survey_rows": 0,
+      "taxon_ids": 0,
+      "uncertain_rows": 0,
+      "independent_wgs84_geodesic_count": 0,
+      "count_difference": 0
+    }
+  ],
+  "mianhua": [
+    {
+      "radius_m": 500,
+      "survey_rows": 0,
+      "taxon_ids": 0,
+      "uncertain_rows": 38,
+      "independent_wgs84_geodesic_count": 0,
+      "count_difference": 0
+    },
+    {
+      "radius_m": 1000,
+      "survey_rows": 7014,
+      "taxon_ids": 236,
+      "uncertain_rows": 38,
+      "independent_wgs84_geodesic_count": 7014,
+      "count_difference": 0
+    },
+    {
+      "radius_m": 2000,
+      "survey_rows": 7199,
+      "taxon_ids": 242,
+      "uncertain_rows": 40,
+      "independent_wgs84_geodesic_count": 7199,
+      "count_difference": 0
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "keelung-island",
+    "name": "基隆嶼",
+    "lon": 121.78721,
+    "lat": 25.192753,
+    "type": "island_landmark",
+    "source": "交通部觀光署－基隆嶼",
+    "url": "https://www.taiwan.net.tw/m1.aspx?id=2554&sNo=0001105",
+    "retrieved": "2026-11-09",
+    "note": "交通部觀光署景點參考位置；作為島嶼地標，不是魚類調查站或島岸輪廓。"
+  }
+]

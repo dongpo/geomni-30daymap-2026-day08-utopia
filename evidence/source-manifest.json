@@ -1,0 +1,343 @@
+[
+  {
+    "file": "data/raw/fish-01000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=1000",
+    "acquired": "2026-11-09",
+    "sha256": "d9c737104645266c9e0bd23c1bbef12551192f4fd174681ebb2fc7e151b1e445",
+    "bytes": 1614369
+  },
+  {
+    "file": "data/raw/fish-02000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=2000",
+    "acquired": "2026-11-09",
+    "sha256": "01f08718390de5dc74a47782e1831360afbc99e0a95f37f59f993b52b8757698",
+    "bytes": 1708695
+  },
+  {
+    "file": "data/raw/fish-03000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=3000",
+    "acquired": "2026-11-09",
+    "sha256": "b816a67b46d3a45679596fd0dc91e0d48a609c4966c6d9586e6bbbd337c51b86",
+    "bytes": 1866203
+  },
+  {
+    "file": "data/raw/fish-04000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=4000",
+    "acquired": "2026-11-09",
+    "sha256": "4243738fa5e3527a001f5c9a6eb6b7048620b94a75940fcef62cba70406469ba",
+    "bytes": 1854929
+  },
+  {
+    "file": "data/raw/fish-05000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=5000",
+    "acquired": "2026-11-09",
+    "sha256": "d028a29312328999dc2e1caa71c086a4ebf7b5481a4190f6f42910f2accb8df2",
+    "bytes": 1824407
+  },
+  {
+    "file": "data/raw/fish-06000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=6000",
+    "acquired": "2026-11-09",
+    "sha256": "5c69b0edabdf938c30828955462304a6985105e339bbed96da93224033b06919",
+    "bytes": 1794305
+  },
+  {
+    "file": "data/raw/fish-07000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=7000",
+    "acquired": "2026-11-09",
+    "sha256": "3f03e22f5dd3db00b49d2531ed761c7b36eca49a97eb82e9be66cea4618c77a6",
+    "bytes": 1703515
+  },
+  {
+    "file": "data/raw/fish-08000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=8000",
+    "acquired": "2026-11-09",
+    "sha256": "a0ff3e9a0345990a2ff72fa9cb296a6fa1b4b446ae0c35f23d347a5d66750e5e",
+    "bytes": 1652675
+  },
+  {
+    "file": "data/raw/fish-09000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=9000",
+    "acquired": "2026-11-09",
+    "sha256": "24c1a34201f488cee4e13f4d307a49a92d849aac44c079fb705d2b53311791d6",
+    "bytes": 1688349
+  },
+  {
+    "file": "data/raw/fish-10000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=10000",
+    "acquired": "2026-11-09",
+    "sha256": "2f45117c80a367a884b27a8f3efce1b5f5ab70979dd2d103a88b755d6d2d7246",
+    "bytes": 1563881
+  },
+  {
+    "file": "data/raw/fish-11000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=11000",
+    "acquired": "2026-11-09",
+    "sha256": "027607af65cd4ada5f124465c24330d075106b3bd4ff928a33fcd46c344c0e83",
+    "bytes": 1635125
+  },
+  {
+    "file": "data/raw/fish-12000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=12000",
+    "acquired": "2026-11-09",
+    "sha256": "1ea0a22633df136cab07ccd3d12c3010fca58e7c27b50f55996725db6b3b9a69",
+    "bytes": 1810989
+  },
+  {
+    "file": "data/raw/fish-13000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=13000",
+    "acquired": "2026-11-09",
+    "sha256": "6ac9862566e73ecbf96e29fba8218c01e44499dd45443db301cf71f66738e147",
+    "bytes": 1785728
+  },
+  {
+    "file": "data/raw/fish-14000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=14000",
+    "acquired": "2026-11-09",
+    "sha256": "c6961f1b6ccffdc06e68f32417ec53d8047c3d2e7fbcb93496de95098a77e619",
+    "bytes": 1756931
+  },
+  {
+    "file": "data/raw/fish-15000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=15000",
+    "acquired": "2026-11-09",
+    "sha256": "7bdd903506407bc7dc227245d47c58a32ec2f53fb5dd00122ddd09d742b0a358",
+    "bytes": 1772754
+  },
+  {
+    "file": "data/raw/fish-16000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=16000",
+    "acquired": "2026-11-09",
+    "sha256": "cc54dba3586f477125a435104e1ff8eef89e1bb93972c30428ac420df66afb9a",
+    "bytes": 1770857
+  },
+  {
+    "file": "data/raw/fish-17000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=17000",
+    "acquired": "2026-11-09",
+    "sha256": "1ae5d705489f800aca65a08aec368a25e28e0599255bea7965033afd10f7bc71",
+    "bytes": 1769066
+  },
+  {
+    "file": "data/raw/fish-18000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=18000",
+    "acquired": "2026-11-09",
+    "sha256": "3583c0f9a993c2ca309a85cd710e853d26123597c3b29f3c8c3473a495163d93",
+    "bytes": 1758271
+  },
+  {
+    "file": "data/raw/fish-19000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=19000",
+    "acquired": "2026-11-09",
+    "sha256": "4a8a6ca72dd57aae50d8d6413c92f09a0515b2b822c5425dbbdb286efaad6594",
+    "bytes": 1801558
+  },
+  {
+    "file": "data/raw/fish-20000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=20000",
+    "acquired": "2026-11-09",
+    "sha256": "b15cd8393af2201d78853f209880f96afc16d45957821a7c8708c6ccafcfe9ee",
+    "bytes": 1971593
+  },
+  {
+    "file": "data/raw/fish-21000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=21000",
+    "acquired": "2026-11-09",
+    "sha256": "3c8141f28fa62d0f61e63905da825da4688263f5cd5f4832b78493a3f6a3ad16",
+    "bytes": 1941547
+  },
+  {
+    "file": "data/raw/fish-22000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=22000",
+    "acquired": "2026-11-09",
+    "sha256": "b83442cf89e5caa7ec097575bac0cb8c9a29338d8d344aa085eec329108f223c",
+    "bytes": 1940820
+  },
+  {
+    "file": "data/raw/fish-23000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=23000",
+    "acquired": "2026-11-09",
+    "sha256": "ed529193b1fb8b280d5a99c6ce0d931578da8abeb71957ce44433428e5644244",
+    "bytes": 1953069
+  },
+  {
+    "file": "data/raw/fish-24000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=24000",
+    "acquired": "2026-11-09",
+    "sha256": "d87ce26742b2c6fc5d9eb571d315798ba236f9fd3dde988c6f1554b51338a554",
+    "bytes": 1970027
+  },
+  {
+    "file": "data/raw/fish-25000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=25000",
+    "acquired": "2026-11-09",
+    "sha256": "dded7228cdad6bc3b8e6a64b4b40faf9be994c9b8040efc30599406bc82662d4",
+    "bytes": 1970416
+  },
+  {
+    "file": "data/raw/fish-26000.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000&offset=26000",
+    "acquired": "2026-11-09",
+    "sha256": "65233155bf945a31ca33dd1fa5811e4d8e1b78499fb4ac1f9a0d2a08707ab016",
+    "bytes": 955337
+  },
+  {
+    "file": "data/raw/divesites.pdf",
+    "url": "https://www.penghu.gov.tw/uploaddowndoc?file=report%2F202509190851032.pdf&filedisplay=3270308_0023451_114E1003167-01.pdf&flag=doc",
+    "acquired": "2026-11-09",
+    "sha256": "96be8d4676a3342c53d1d62978362778608a956920c3999ee6c91e2e004294ef",
+    "bytes": 405052
+  },
+  {
+    "file": "data/raw/ecology2024.pdf",
+    "url": "https://www.oca.gov.tw/filedownload?file=research%2F202503121409200.pdf&filedisplay=112-113OCA_ClosureReprot_compressed.pdf&flag=doc",
+    "acquired": "2026-11-09",
+    "sha256": "1ee1f867735296cb9eea305f284ff2980010b32f760c74fc36ad7e2475d637bf",
+    "bytes": 16328242
+  },
+  {
+    "file": "data/raw/reefs-survey.pdf",
+    "url": "https://kmweb.moa.gov.tw/files/document/8333/f7b32edc2f930641e08c93ea1b112122_v2.pdf",
+    "acquired": "2026-11-09",
+    "sha256": "d09357e7fadc79bd27076fca9f287e4b0b52c3003a8c839e351719aaf5487401",
+    "bytes": 2805732
+  },
+  {
+    "file": "data/bathymetry.tif",
+    "url": "https://data.naturalcapitalalliance.stanford.edu/download/global/gebco/gebco_bathymetry_2024_global.tif",
+    "license_or_note": "GEBCO2024; public domain; cropped",
+    "acquired": "2026-11-09",
+    "sha256": "b3015fff3aa9b5c2fc37a79a36583849f9c275da4c271aa1bf508a73e364e20b",
+    "bytes": 138734
+  },
+  {
+    "file": "data/raw/artificial-reefs.json",
+    "url": "https://data.moa.gov.tw/Service/OpenData/FaRss.aspx?IsTransData=1&UnitId=725&key=015",
+    "license_or_note": "Government Open Data License Taiwan 1.0",
+    "acquired": "2026-11-09",
+    "sha256": "f3a2e6ce478161e36dd34b74d40154568a6d93a3cc6768937c07ef2196fb9722",
+    "bytes": 29792
+  },
+  {
+    "file": "data/raw/taibif-fishes.json",
+    "url": "https://portal.taibif.tw/api/v3/occurrence?taxonGroup=Fishes&boundedBy=121.4,25.0,122.4,25.9&rows=1000",
+    "license_or_note": "mixed raw licenses; selected refuge CC BY4.0 only",
+    "acquired": "2026-11-09",
+    "sha256": "892f64787dea111652967e8edda4c87cdb575b1ca93a60dbfc8c785cfcf9936b",
+    "bytes": 1654186
+  },
+  {
+    "file": "data/raw/traditional-names.pdf",
+    "url": "https://www.namr.gov.tw/filedownload?file=research%2F202501141656070.pdf&filedisplay=NAMR111039%E6%9D%B1%E5%8C%97%E8%A7%92%E6%B5%B7%E5%B2%B8%E5%8F%8A%E6%B5%B7%E5%9F%9F%E5%82%B3%E7%B5%B1%E5%9C%B0%E5%90%8D%E8%AA%BF%E6%9F%A5%E5%8B%9E%E5%8B%99%E5%A7%94%E8%A8%97%E6%A1%88%E6%88%90%E6%9E%9C%E5%A0%B1%E5%91%8A-%E5%B7%B2%E5%A3%93%E7%B8%AE.pdf&flag=doc",
+    "license_or_note": "government report; redistribution license not confirmed; internal review",
+    "acquired": "2026-11-09",
+    "sha256": "03ee2d48088f3bf52ad74e6b18490a702f0a5a51ac420e037227be3fd8c98883",
+    "bytes": 8484208
+  },
+  {
+    "file": "data/raw/northern-survey.pdf",
+    "url": "https://www.namr.gov.tw/filedownload?file=research%2F202601151547370.pdf&filedisplay=%E7%A4%BA%E7%AF%84%E6%B5%B7%E5%9F%9F%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E8%B3%87%E8%A8%8A%E8%92%90%E9%9B%86%E5%8F%8A%E8%B3%87%E6%BA%90%E8%AA%BF%E6%9F%A5-%E5%8C%97%E9%83%A8%E6%B5%B7%E5%9F%9F.pdf&flag=doc",
+    "license_or_note": "government report; redistribution license not confirmed; internal review",
+    "acquired": "2026-11-09",
+    "sha256": "7618b6d33126f615bbd29f79149f485c303c88cf88d680cad95d3642d5807361",
+    "bytes": 14382207
+  },
+  {
+    "file": "data/raw/grounds/blog.html",
+    "sha256": "5a9f479d645780e0a1b765e28809ecea313719cade1ea23cb6c76546e012e9f5",
+    "bytes": 404132,
+    "acquired": "2026-11-09",
+    "source": "https://dracula0911.blogspot.com/2013/11/blog-post.html",
+    "license_or_note": "reuse license unconfirmed; local review"
+  },
+  {
+    "file": "data/raw/grounds/733417.html",
+    "sha256": "1beb7d038fe3d78e54cf37615d2ffc7ce120f66bce63c393a3c87acba4916459",
+    "bytes": 47780,
+    "acquired": "2026-11-09",
+    "source": "Windguru linked custom spots; see grounds.json",
+    "license_or_note": "reuse license unconfirmed; local review"
+  },
+  {
+    "file": "data/raw/grounds/733362.html",
+    "sha256": "bf9cea0c845c8c723e2c07efa74d0df3e64281957550eb81d0bdff6e14d0fa2c",
+    "bytes": 47780,
+    "acquired": "2026-11-09",
+    "source": "Windguru linked custom spots; see grounds.json",
+    "license_or_note": "reuse license unconfirmed; local review"
+  },
+  {
+    "file": "data/raw/grounds/733421.html",
+    "sha256": "749bb451c000f9e256d98f7c75f5a0a1fb77877666dac2e24f03361c668441eb",
+    "bytes": 47780,
+    "acquired": "2026-11-09",
+    "source": "Windguru linked custom spots; see grounds.json",
+    "license_or_note": "reuse license unconfirmed; local review"
+  },
+  {
+    "file": "data/raw/grounds/coordinates-evidence.json",
+    "sha256": "689a59b38f73a687339bd723968f833006de0cdbb488fdffbd0c161c625e6b5e",
+    "bytes": 1876,
+    "acquired": "2026-11-09",
+    "source": "Windguru linked custom spots; see grounds.json",
+    "license_or_note": "reuse license unconfirmed; local review"
+  },
+  {
+    "file": "data/raw/grounds/733503.html",
+    "sha256": "01351b8df64fd0b465da28ccae46cbdd1ad365ebcd55edced712f4f7a762bc3e",
+    "bytes": 47780,
+    "acquired": "2026-11-09",
+    "source": "Windguru linked custom spots; see grounds.json",
+    "license_or_note": "reuse license unconfirmed; local review"
+  },
+  {
+    "file": "data/raw/grounds/733418.html",
+    "sha256": "840bef2bde18b5b1c2cdc2c5075432f49687c7c58180cfbc0ed50f3216bbe7d0",
+    "bytes": 47780,
+    "acquired": "2026-11-09",
+    "source": "Windguru linked custom spots; see grounds.json",
+    "license_or_note": "reuse license unconfirmed; local review"
+  },
+  {
+    "file": "data/raw/grounds/733422.html",
+    "sha256": "d647050a5745d2b97fe8d39b62a88b5fee09243c155524eec2a055eb125c6e09",
+    "bytes": 47780,
+    "acquired": "2026-11-09",
+    "source": "Windguru linked custom spots; see grounds.json",
+    "license_or_note": "reuse license unconfirmed; local review"
+  },
+  {
+    "url": "https://www.tfrin.gov.tw/redirect_files.php?file_name=DSK3D9ZJVRRRwKavv6Jg7sQlORKqVBxsOHodp9o5BWGPlusTAhmIfutPQbpt3juCdd4QccQWGEqualWGEqualuJWrfeyFxBH0aqwq0NddOXj35zhXaDpizsSHnJO2693NcxXWtRHJKSQYWOAyKSpez84jdhKODmof5j7TlS0K&id=12995",
+    "acquired": "2026-11-09",
+    "license_or_note": "facts paraphrased; no source photographs reused; local review",
+    "file": "data/raw/ground-evidence/cutlassfish-cruise-2021.pdf",
+    "sha256": "6cfba4e8c593efbdb37cadbc3cf39c02f1cb32e7023ddc5828f004fea4b6f989",
+    "bytes": 319159,
+    "status": "DOWNLOADED"
+  },
+  {
+    "url": "https://hg189go.com/service-fishing.php",
+    "acquired": "2026-11-09",
+    "license_or_note": "facts paraphrased; no source photographs reused; local review",
+    "file": "data/raw/ground-evidence/operator-coral.html",
+    "sha256": "65df3bdd7e78253ebe4f808491d5e33cff0ee0a57e409a587e80ca670fb5911a",
+    "bytes": 23352,
+    "status": "DOWNLOADED"
+  },
+  {
+    "url": "https://fishdb.sinica.edu.tw/chi/species.php?gen=Etelis&spe=coruscans",
+    "acquired": "2026-11-09",
+    "license_or_note": "facts paraphrased; no source photographs reused; local review",
+    "status": "WEB_READ_SUCCESS_DIRECT_DOWNLOAD_401",
+    "facts_read": "Etelis coruscans: 長尾濱鯛／長尾鳥，100–400m，沿岸礁石；舊頁停止更新。",
+    "full_original_saved": false
+  },
+  {
+    "url": "https://fishdb.sinica.edu.tw/chi/species.php?id=382124",
+    "acquired": "2026-11-09",
+    "license_or_note": "facts paraphrased; no source photographs reused; local review",
+    "status": "WEB_READ_SUCCESS_DIRECT_DOWNLOAD_401",
+    "facts_read": "Paracaesio caerulea: 藍色擬烏尾鮗／青雞仔，1–100m；舊頁停止更新。",
+    "full_original_saved": false
+  }
+]

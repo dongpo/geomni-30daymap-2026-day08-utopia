@@ -1,0 +1,25 @@
+{
+  "acquired_date": "2026-11-09",
+  "raw_fish_records": 26500,
+  "refuge_records": 7166,
+  "mapped_species_rank_records": 6932,
+  "mapped_sites": 30,
+  "mapped_species": 240,
+  "excluded_off_cluster": [
+    {
+      "id": "cetaexplorers_mianhua_huaping_islets_4438",
+      "lon": 122.10872,
+      "lat": 25.37875,
+      "reason": "outside concentrated Mianhua survey cluster; needs verification"
+    }
+  ],
+  "excluded_non_species_rank": 233,
+  "reef_features": 10,
+  "wreck_points": 2,
+  "raster_shape": [
+    240,
+    288
+  ],
+  "grid_arcseconds": 15,
+  "build_seconds": 0.356
+}

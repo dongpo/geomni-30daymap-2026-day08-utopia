@@ -1,0 +1,65 @@
+{
+  "input_rows": 13894,
+  "columns": 66,
+  "unique_tbia_ids": 13894,
+  "source_datasets": 26,
+  "county_values": {
+    "基隆市": 13894
+  },
+  "scope_note": "Supplied snapshot has only 基隆市 county values; not a census of northern Taiwan. county is TBIA coordinate-derived, not evidence of capture location.",
+  "output_rows": 13894,
+  "removed": {},
+  "tiers": {
+    "uncertain": 2752,
+    "context": 3588,
+    "survey": 7554
+  },
+  "unknown_uncertainty": 3683,
+  "uncertainty_8000m": 2222,
+  "generalized_input": 18,
+  "licenses": {
+    "CC-BY-NC": 932,
+    "CC BY 4.0+": 637,
+    "CC BY-NC 4.0+": 2248,
+    "http://creativecommons.org/licenses/by/4.0/legalcode": 7329,
+    "CC0": 1682,
+    "CC-BY": 67,
+    "http://creativecommons.org/publicdomain/zero/1.0/legalcode": 90,
+    "http://creativecommons.org/licenses/by-nc/4.0/legalcode": 118,
+    "OGDL": 103,
+    "OGDL-Taiwan-1.0": 686,
+    "CC BY-NC": 2
+  },
+  "reconciliation": {
+    "old_taibif_selected_rows": 6932,
+    "tbia_same_source_rows": 7166,
+    "old_taibif_ids_matched_in_tbia": 5543,
+    "policy": "Replace old TaiBIF occurrence display entirely with TBIA snapshot, never union counts. Same-source matching does not assert every field identical."
+  },
+  "method": "Survey tier requires named marine survey dataset, species/subspecies identification, supplied WGS84 and 0–2000 m uncertainty; uncertain tier includes iOcean, iNaturalist, surveys with missing uncertainty/datum. Uncertain is only a reported coordinate, not a validated habitat. All other sources retained as context-only; no inference of fish absence.",
+  "huanggang": {
+    "all_source_points_within_2km": 0,
+    "nearest_supplied_coordinate_km": 6.042418332886581
+  },
+  "coral": {
+    "all_source_points_within_2km": 0,
+    "nearest_supplied_coordinate_km": 6.677562046667283
+  },
+  "sources": [
+    {
+      "path": "data/raw/tbia/fields.txt",
+      "bytes": 7643,
+      "sha256": "84dbbc6834ee98214eecde1d0a7992e040fc07566c12cdd10755d3624db219d2"
+    },
+    {
+      "path": "data/raw/tbia/tbia_6af137d6a272970017cd2db0.zip",
+      "bytes": 1016867,
+      "sha256": "3a4f9351ab316192a05f4abf09abdfebf95212a8d49ea0df19ed37f022bd11ca"
+    },
+    {
+      "path": "data/raw/tbia/資料欄位說明文件.pdf",
+      "bytes": 105808,
+      "sha256": "2db2ec33e8daf5207294e29d9cac80e3b0a8fb830321867b3cdd758cd5634a25"
+    }
+  ]
+}

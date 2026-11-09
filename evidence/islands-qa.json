@@ -1,0 +1,48 @@
+{
+  "source_sha256": "7eb4d8dacd8afa40e34ec51f69149458586afd8c44e8f77b62eb7fe8d2fffd92",
+  "source_crs_wkt": "GEOGCRS[\"GCS_TWD97_2020\",DATUM[\"Taiwan_Datum_1997\",ELLIPSOID[\"GRS 1980\",6378137,298.257222101,LENGTHUNIT[\"metre\",1]],ID[\"EPSG\",1026]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"Degree\",0.0174532925199433]],CS[ellipsoidal,2],AXIS[\"longitude\",east,ORDER[1],ANGLEUNIT[\"Degree\",0.0174532925199433]],AXIS[\"latitude\",north,ORDER[2],ANGLEUNIT[\"Degree\",0.0174532925199433]]]",
+  "display_crs": "EPSG:4326",
+  "transform": "axis order change (2D) + TWD97 to WGS 84 (1) + axis order change (2D)",
+  "transform_accuracy_m": 1.0,
+  "coordinate_epoch": "PRJ名稱含2020，未提供觀測epoch；未做板塊運動或公分級校正",
+  "features": [
+    {
+      "name": "基隆嶼",
+      "code": "10017010S04",
+      "source": "使用者上傳north_island.zip",
+      "name_method": "依地理位置對照島嶼名稱；原屬性無島名",
+      "area_m2": 333011.0,
+      "geometry_type": "Polygon"
+    },
+    {
+      "name": "彭佳嶼",
+      "code": "10017010S01",
+      "source": "使用者上傳north_island.zip",
+      "name_method": "依地理位置對照島嶼名稱；原屬性無島名",
+      "area_m2": 1032202.4,
+      "geometry_type": "Polygon"
+    },
+    {
+      "name": "棉花嶼",
+      "code": "10017010S02",
+      "source": "使用者上傳north_island.zip",
+      "name_method": "依地理位置對照島嶼名稱；原屬性無島名",
+      "area_m2": 190557.1,
+      "geometry_type": "MultiPolygon"
+    },
+    {
+      "name": "花瓶嶼",
+      "code": "10017010S03",
+      "source": "使用者上傳north_island.zip",
+      "name_method": "依地理位置對照島嶼名稱；原屬性無島名",
+      "area_m2": 5231.4,
+      "geometry_type": "Polygon"
+    }
+  ],
+  "all_valid": true,
+  "contour_segments_before": 882,
+  "source_contours_intersecting_islands": 4,
+  "contour_segments_after": 1006,
+  "provenance": "使用者提供檔；來源製作日期、測繪精度、再利用授權未隨檔附上。只作本機審稿。面屬性為未編定村里，呈現為提供的島嶼陸地面，不宣稱即時潮位岸線。",
+  "contour_length_inside_land_degrees": 0.0
+}

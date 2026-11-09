@@ -1,0 +1,25 @@
+{
+  "interval_m": 20,
+  "native_grid": [
+    240,
+    288
+  ],
+  "native_arcseconds": 15,
+  "interpolation": "separable bilinear, 4 subdivisions per native centre interval; contour interpolation on resampled field",
+  "interpolated_shape": [
+    957,
+    1149
+  ],
+  "min_depth_m": -1597.0,
+  "level_count": 80,
+  "segments": 882,
+  "vertices": 132829,
+  "native_node_max_error": 0.0,
+  "resampled_extrema": [
+    -1597.0,
+    1028.0
+  ],
+  "source_sha256": "7a9fbc06e87e869126548dcac95fac3197a3c983140daad979227515d6b77836",
+  "seconds": 0.592,
+  "note": "20 m is vertical contour interval, not horizontal resolution or accuracy. No added measurements; no extrapolation beyond native grid centres."
+}

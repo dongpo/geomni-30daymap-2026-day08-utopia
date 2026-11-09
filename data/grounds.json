@@ -1,0 +1,90 @@
+[
+  {
+    "name": "磺港瀨",
+    "lat": 25.3544,
+    "lon": 121.7838,
+    "id": "733362",
+    "type": "ground",
+    "url": "https://www.windguru.cz/733362",
+    "inside": true,
+    "note": "德先生魚筆記連結的 Windguru 使用者自訂預報點；已核讀頁面座標，瀨區邊界與點位精度未獨立核實。不是水深或魚種調查站。"
+  },
+  {
+    "name": "西北瀨",
+    "lat": 25.5542,
+    "lon": 121.9747,
+    "id": "733417",
+    "type": "ground",
+    "url": "https://www.windguru.cz/733417",
+    "inside": true,
+    "note": "德先生魚筆記連結的 Windguru 使用者自訂預報點；已核讀頁面座標，瀨區邊界與點位精度未獨立核實。不是水深或魚種調查站。"
+  },
+  {
+    "name": "三角瀨",
+    "lat": 25.1487,
+    "lon": 122.3416,
+    "id": "733418",
+    "type": "ground",
+    "url": "https://www.windguru.cz/733418",
+    "inside": true,
+    "note": "德先生魚筆記連結的 Windguru 使用者自訂預報點；已核讀頁面座標，瀨區邊界與點位精度未獨立核實。不是水深或魚種調查站。"
+  },
+  {
+    "name": "鐵板瀨",
+    "lat": 24.7433,
+    "lon": 122.0001,
+    "id": "733421",
+    "type": "ground",
+    "url": "https://www.windguru.cz/733421",
+    "inside": false,
+    "note": "德先生魚筆記連結的 Windguru 使用者自訂預報點；已核讀頁面座標，瀨區邊界與點位精度未獨立核實。不是水深或魚種調查站。"
+  },
+  {
+    "name": "雞仔瀨",
+    "lat": 24.6417,
+    "lon": 122.2854,
+    "id": "733422",
+    "type": "ground",
+    "url": "https://www.windguru.cz/733422",
+    "inside": false,
+    "note": "德先生魚筆記連結的 Windguru 使用者自訂預報點；已核讀頁面座標，瀨區邊界與點位精度未獨立核實。不是水深或魚種調查站。"
+  },
+  {
+    "name": "珊瑚瀨",
+    "lat": 25.55,
+    "lon": 122.1833,
+    "id": "733503",
+    "type": "ground",
+    "url": "https://www.windguru.cz/733503",
+    "inside": true,
+    "note": "德先生魚筆記連結的 Windguru 使用者自訂預報點；已核讀頁面座標，瀨區邊界與點位精度未獨立核實。不是水深或魚種調查站。"
+  },
+  {
+    "name": "冬瓜瀨",
+    "lat": 25.6622,
+    "lon": 122.0785,
+    "id": "user-donggua",
+    "type": "ground",
+    "inside": true,
+    "source": "使用者於本聊天提供，2026-11-09",
+    "coordinate_order": "latitude, longitude",
+    "datum": "未註明；暫按WGS84繪製",
+    "note": "使用者提供的地名參考座標（2026-11-09）；基準未註明，暫按WGS84繪製。瀨區邊界、水深與魚種以各自資料來源為準。"
+  },
+  {
+    "name": "大嶼東",
+    "lat": 25.62717,
+    "lon": 122.45929,
+    "id": "user-dayudong",
+    "type": "ground",
+    "inside": true,
+    "source": "使用者2026-11-09要求移至當前船位；讀取地圖顯示座標，精度為小數5位",
+    "coordinate_order": "latitude, longitude",
+    "datum": "未註明；暫按WGS84繪製",
+    "note": "使用者2026-11-09依目前船位修訂的參考點；原座標25.6279°N、122.4413°E已保留。暫按WGS84繪製。",
+    "previous_coordinates": {
+      "lat": 25.6279,
+      "lon": 122.4413
+    }
+  }
+]

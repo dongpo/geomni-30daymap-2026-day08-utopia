@@ -1,0 +1,24 @@
+{
+  "version": "sea-lens-v13",
+  "parent": "sea-lens-v12",
+  "date": "2026-11-09",
+  "checks": {
+    "removed_panels": [
+      "FIELD NOTES",
+      "瀨區與資料缺口"
+    ],
+    "left_navigation_buttons": 13,
+    "zoom_controls_inside_map": true,
+    "pan": "PASS: drag100px east50px south; boat remains25.35440N121.78380E",
+    "boat_drag": "PASS:25.35440N121.78380E ->25.35853N121.78941E;depth91m->83m",
+    "wheel_zoom": "PASS: circle grows, boat coordinate unchanged, no page scroll",
+    "zoom_button": "PASS: viewpoint zoom without teleporting boat",
+    "screenshot": "layout-v13.png"
+  },
+  "untested": [
+    "mobile touch",
+    "keyboard shortcuts runtime verification"
+  ],
+  "approved": false,
+  "published": false
+}

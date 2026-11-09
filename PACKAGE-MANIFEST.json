@@ -1,0 +1,155 @@
+{
+  "source_version": "day08-sea-lens-v13",
+  "date": "2026-11-09",
+  "excluded": "raw ZIP/PDF/full occurrence exports, prior versions, local governance and absolute-path migration scripts",
+  "unlinked_local_originals": [
+    "data/raw/divesites.pdf",
+    "data/raw/northern-survey.pdf"
+  ],
+  "source_files": [
+    {
+      "file": "REVIEW.html",
+      "sha256": "45f6f478e09efca0b2948e7bb147115b4ea805ce0fbe8625a4677d6d962ceb0f"
+    },
+    {
+      "file": "map.js",
+      "sha256": "1292450d5c629e2ef56f3a88a85761d285b49716c0ddf8bcd2025f6f3772b218"
+    },
+    {
+      "file": "ground-lens.js",
+      "sha256": "5e085d7ec848085da126eebee7b90cae3efd753067cffd6360f972d1b73f0075"
+    },
+    {
+      "file": "tbia-ui.js",
+      "sha256": "459ae512fe5be03c848bb101fdefbb6166c13278238f323fd908075135dfc300"
+    },
+    {
+      "file": "islands-ui.js",
+      "sha256": "8a5d7a3e9dddfaa764282c36dfd8061a6e73c069fe3592e147a873f12244a707"
+    },
+    {
+      "file": "DATA-NOTES.txt",
+      "sha256": "9899756993237a32f6daa17a67d4a2ae7449698d149ca25707060573f84bb1af"
+    },
+    {
+      "file": "TBIA-NOTES.txt",
+      "sha256": "72afb07f8c7a2f80647c2476ea00ce34a70e12af155523e3da71e545e97884e4"
+    },
+    {
+      "file": "GROUND-COMPARISON.txt",
+      "sha256": "44fe9f38d041fd054858005b34e43bb1e1c0b122ed9ea2777202f2aa9b039317"
+    },
+    {
+      "file": "data/map-data.js",
+      "sha256": "3a42b4cad96feb5f8b9207e32fcdb32a5f8efe81429b905295313630107d45a4"
+    },
+    {
+      "file": "data/ground-ecology.js",
+      "sha256": "817eedc5c0202dadc0937f06921a485193fff203dcfe49bb40046e42cedc600c"
+    },
+    {
+      "file": "data/tbia-data.js",
+      "sha256": "8fc2dfd868ffc8506f215d6c0b8c0b27f9ae5a82b50bc816b8a55e5560d38998"
+    },
+    {
+      "file": "data/islands.js",
+      "sha256": "feca65a2eec3fe034e7949a9aa189e6ed46870d0186aa0f63c99011404abead9"
+    },
+    {
+      "file": "data/terrain.png",
+      "sha256": "9cd617bb6c193d2d2d3b5d1125b031f5c98ea996d8e0073ce864fa954269bd54"
+    },
+    {
+      "file": "data/grounds.json",
+      "sha256": "9259b6d7c7f63483495ba49313816dc72aa519dcc8cb17692d952cccc23f4374"
+    },
+    {
+      "file": "data/landmarks.json",
+      "sha256": "7f3a9b06933b8f7721339dd426c9c39a66a9ded61b342524bf886d993f4205d4"
+    },
+    {
+      "file": "data/islands.geojson",
+      "sha256": "b41e1f5f5ef4cdd1795c85baf1633977c7c80d33ed1f4c3e72df2a60d1255821"
+    },
+    {
+      "file": "data/user-feature-overrides.json",
+      "sha256": "d16e788a68479195bbaaf39a690bb2d91c802292ee0af98d0d317ab429927b0e"
+    },
+    {
+      "file": "data/bathymetry.tif",
+      "sha256": "b3015fff3aa9b5c2fc37a79a36583849f9c275da4c271aa1bf508a73e364e20b"
+    },
+    {
+      "file": "data/bathymetry.xyz",
+      "sha256": "7a9fbc06e87e869126548dcac95fac3197a3c983140daad979227515d6b77836"
+    },
+    {
+      "file": "evidence/tbia-qa.json",
+      "sha256": "28e687450d5b7574a1cf5a78e6fdccadcac611bb6adc868274f9fa7089ad8b83"
+    },
+    {
+      "file": "evidence/contours-20m-qa.json",
+      "sha256": "56be3a6d31cd169c1fc77f10516eda5fc0a14170f6b0fe2ac1e907d150fb1c57"
+    },
+    {
+      "file": "evidence/islands-qa.json",
+      "sha256": "b0c3c13845a89948b5ff8b824cdc5aab41e703ae93b437d4f8984b255e2ec2a3"
+    },
+    {
+      "file": "evidence/v13-qa.json",
+      "sha256": "8285369ca9e5a854a8004f2fbf8570b8ad16bdc3b8e0d1495dd8485abca624ed"
+    },
+    {
+      "file": "evidence/v10-numerical-qa.json",
+      "sha256": "c03d81ad855f1095a43ba2d19b7a86895e14998a9b4ffec84bd129fd883778a3"
+    },
+    {
+      "file": "evidence/data-qa.json",
+      "sha256": "426edf50dc7f839e78c6f3593c8a260d999586fc4ccb5a29544702580eb95cef"
+    },
+    {
+      "file": "evidence/QA.txt",
+      "sha256": "b13832a4b62e073b60a9ef4d020e107dc8df2093377bc8da63e53408696c41cd"
+    },
+    {
+      "file": "evidence/environment.json",
+      "sha256": "1936fb4b90c3652b924683e3f9ed6f9ef2cc713326e7c3834470f241b69e196e"
+    },
+    {
+      "file": "evidence/source-manifest.json",
+      "sha256": "6e47777696a996aa145a3f268803d2a133fd7d7421a76e80cf86b23fbfb3f4bd"
+    },
+    {
+      "file": "evidence/layout-v13.png",
+      "sha256": "102e3033362ed5a9342a58be53ce73e1cd4ab5330d10daa590e21a48cc2069e4"
+    },
+    {
+      "file": "scripts/process-tbia.py",
+      "sha256": "93aa33c241edaa254415abf15bc22678a5412f49eb0e68ec7f5f38f2a5d92347"
+    },
+    {
+      "file": "scripts/contours-20m.py",
+      "sha256": "eba44de3e1850112693945168ab7c4458877545f8cb11ed22feaca255198bfc0"
+    },
+    {
+      "file": "scripts/integrate-islands.py",
+      "sha256": "4636ad47fac4e70a2bdc2a59187fda652840e25527e8ef1f247e4b2bd099df03"
+    },
+    {
+      "file": "scripts/build.py",
+      "sha256": "ae81e92101cc1f7457d95de803bc1e61b1128b18a0868ebdcd79e1672e281fe6"
+    },
+    {
+      "file": "scripts/verify-v10.py",
+      "sha256": "051c63e7eea615c426bcfede8345713d63eabb13100ad58a8e30b83f69ed4e93"
+    },
+    {
+      "file": "scripts/reproduce-downloads.py",
+      "sha256": "df87e425c47ce33bbc5769c381abc02ab44a5c652bc897b477da1b33ef49f8f8"
+    },
+    {
+      "file": "scripts/acquire.py",
+      "sha256": "64ae51566dedffb3871afd8516db28c32adc095f1a53e0820d924ad28c4f457c"
+    }
+  ]
+}
