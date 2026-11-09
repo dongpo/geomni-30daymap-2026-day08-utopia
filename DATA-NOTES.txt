@@ -22,3 +22,5 @@ Utopia在圖面中的角色
 2026-11-09 v8修訂：使用者提供德先生魚筆記〈溫古魯全餐〉，已循六個連結逐筆核讀Windguru畫面的十進位經緯度。新增範圍內四處民間參考點：磺港瀨、西北瀨、三角瀨、珊瑚瀨。鐵板瀨、雞仔瀨在圖外保留。這取代v7「磺港瀨／珊瑚瀨無可定位來源」狀態；長瀨、新瀨仍缺。瀨區界線、座標基準與實地精度未獨立核實，不能從名字推斷珊瑚底質或魚種。網頁自訂點alt:0是頁面海拔欄，絕非海底水深。網址2013/11不等於測量日期。來源HTML、瀏覽器核讀文字、十進位座標及個別網址均存data/raw/grounds與data/grounds.json。
 
 V12 reproducibility: after scripts/build.py and scripts/contours-20m.py, run scripts/integrate-islands.py to regenerate the land layer and clip contours. All source geometry is preserved; names assigned from position and codes. Source/CRS checks: evidence/islands-qa.json.
+
+2026-11-09來源更新：使用者確認north_island.zip四島圖資自https://data.gov.tw/下載，屬開放資料，並明確授權將此GitHub儲存庫設為公開。具體資料集URL、發布機關、版本及授權連結待補；前述僅本機的註記為先前審稿歷史。

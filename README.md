@@ -17,9 +17,9 @@ python3 -m http.server 8781 --bind 127.0.0.1
 
 ## 資料與存取範圍
 
-此儲存庫設為 **private**，未啟用 GitHub Pages，未自動發布 Facebook。
+依使用者2026-11-09明確要求，此儲存庫設為 **public**；未啟用 GitHub Pages，未自動發布 Facebook。
 
-GEBCO 2024 海底地形、農業部人工礁、TBIA 多來源魚類資料、使用者提供的四島 Shapefile 與參考點，均保留各自來源與限制。沒有對全部資料授予統一授權。四島原始製作日期、測繪精度及再利用授權未隨檔提供；不要直接將儲存庫轉公開。
+GEBCO 2024 海底地形、農業部人工礁、TBIA 多來源魚類資料、使用者提供的四島 Shapefile 與參考點，均保留各自來源與限制。沒有對全部資料授予統一授權。四島圖資由使用者確認下載自[政府資料開放平臺](https://data.gov.tw/)，屬開放資料；具體資料集頁、發布機關、版本與授權條款連結尚待補齊，未自行推定特定授權版本。原始Shapefile的PRJ與雜湊已保存。
 
 TBIA 的 CC BY、CC BY-NC、CC0、OGDL 等授權按來源保存在 `data/tbia-data.js`；未使用外部魚類照片。8 km 誤差、模糊化敏感位置、未驗證館藏等資料不混入局部魚種清單。點位不等於當下魚群或完整棲地。
 
@@ -33,4 +33,4 @@ TBIA 的 CC BY、CC BY-NC、CC0、OGDL 等授權按來源保存在 `data/tbia-da
 
 順序：下載來源 → `build.py` → `process-tbia.py` → `contours-20m.py` → `integrate-islands.py`。其中 `build.py` 依賴舊 TaiBIF 原始快照來重建基底；本版魚類顯示由 TBIA 取代，不相加。上傳包的來源檔案對照見 `PACKAGE-MANIFEST.json`。
 
-本次 GitHub 推送不代表文章或資料獲得公開發布批准。
+公開儲存庫已獲使用者授權；Facebook文章仍未獲發布批准。
