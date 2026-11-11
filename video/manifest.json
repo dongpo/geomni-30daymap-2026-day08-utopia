@@ -1,0 +1,43 @@
+{
+  "duration_seconds": 28,
+  "resolution": [
+    1280,
+    1238
+  ],
+  "original_sizes": [
+    [
+      1280,
+      1113
+    ],
+    [
+      1280,
+      1166
+    ]
+  ],
+  "screen_scale": [
+    1,
+    1
+  ],
+  "frames": 293,
+  "audio": "none; website has no audio",
+  "capture": "Actual CUA full-page screenshots; timestamped real-time segments, no generated motion; shift-arrow ship controls",
+  "segments": [
+    [
+      "overview",
+      4,
+      "北臺灣到北方三島｜海域總覽"
+    ],
+    [
+      "lens",
+      20,
+      "移動船隻，查看透視窗內的海底地形"
+    ],
+    [
+      "fish",
+      4,
+      "棉花嶼｜查看透視窗內的歷史魚類紀錄"
+    ]
+  ],
+  "decoded": "PASS",
+  "sha256": "6eac8e1b13f5b2e63e89b832cea6ade56371136f426ea408ff0f0f651d13236b"
+}

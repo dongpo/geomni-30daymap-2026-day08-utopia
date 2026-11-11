@@ -6,6 +6,10 @@
 
 [開啟海面之下](https://dongpo.github.io/geomni-30daymap-2026-day08-utopia/)
 
+[觀看／下載 28 秒操作影片](https://dongpo.github.io/geomni-30daymap-2026-day08-utopia/video/Geomni-Day08-Sea-Lens-Moving-28s.mp4)
+
+海域總覽4秒、連續移船透視20秒、魚類紀錄4秒；實際瀏覽器畫面，保留比例，無音訊。歷史出現紀錄不代表當下可釣獲。
+
 GitHub Pages 由 `main` 分支根目錄發布。
 
 ## 本機執行
